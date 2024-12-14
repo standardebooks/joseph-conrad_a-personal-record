@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-3.xhtml">
+		<ignore>
+			<code>y-026</code>
+			<reason>No punctuation needed before “For” in “the two crosses of the Legion of Honour and For Valour”.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

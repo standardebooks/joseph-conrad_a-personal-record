@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/joseph-conrad/a-personal-record</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-12-17T22:01:06Z</dc:date>
+		<meta property="dcterms:modified">2024-12-17T22:01:06Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -27,8 +27,14 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">A Personal Record</dc:title>
-		<meta property="file-as" refines="#title">Personal Record, A</meta>
-		<meta property="dcterms:alternative" refines="#title">A Personal Record: Some Reminiscences</meta>
+		<meta property="file-as" refines="#title">A Personal Record</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">Some Reminiscences</dc:title>
+		<meta property="file-as" refines="#subtitle">Some Reminiscences</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">A Personal Record: Some Reminiscences</dc:title>
+		<meta property="file-as" refines="#fulltitle">A Personal Record</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<meta property="dcterms:alternative" refines="#title">Some Reminiscences</meta>
 		<dc:subject id="subject-1">Novelists, English -- 20th century -- Biography</dc:subject>
 		<dc:subject id="subject-2">Conrad, Joseph, 1857-1924</dc:subject>
@@ -38,16 +44,16 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Memoir</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">An autobiographical memoir on the author’s Polish childhood, his sailing experiences, and the work on his debut novel.</dc:description>
+		<dc:description id="description">Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;A Personal Record&lt;/i&gt; is the second of two autobiographical memoirs by &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt;. The book describes a number of episodes of the author’s life, including his first introduction to the English language, his Polish childhood, his experiences as a sailor in Marseille and England, and the work on his debut novel &lt;i&gt;Almayer’s Folly&lt;/i&gt;.&lt;/p&gt;
-			&lt;p&gt;Originally serialized in the &lt;i&gt;English Review&lt;/i&gt; from 1908 to 1909, the book was published under the title &lt;i&gt;A Personal Record&lt;/i&gt; in 1912, with the addition of the “Familiar Preface.” The “Author’s Note” was added in 1919. The book was also published as &lt;i&gt;A Personal Record: Some Reminiscences&lt;/i&gt; and &lt;i&gt;Some Reminiscences&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;A Personal Record&lt;/i&gt; is the second of two memoirs by &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt;. In it he narrates a number of episodes in his life, including his first introduction to the English language, his childhood in Poland, his experiences as a sailor in Marseilles and England, and the work on his debut novel &lt;i&gt;Almayer’s Folly&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;Originally serialized in the &lt;i&gt;English Review&lt;/i&gt; from 1908 to 1909, the book was published under the title &lt;i&gt;A Personal Record&lt;/i&gt; in 1912 with the addition of the “Familiar Preface.” The “Author’s Note” was added in 1919. The book was also published as &lt;i&gt;Some Reminiscences&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/687</dc:source>
 		<dc:source>https://archive.org/details/personalrecord0000unse_r2g1</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">48325</meta>
+		<meta property="se:reading-ease.flesch">66.17</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Personal_Record</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_a-personal-record</meta>
 		<dc:creator id="author">Joseph Conrad</dc:creator>
@@ -77,6 +83,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>

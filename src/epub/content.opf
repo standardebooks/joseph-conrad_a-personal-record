@@ -47,7 +47,7 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">Conrad recounts his childhood in Poland, his sailing experiences, and the work on his debut novel.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;A Personal Record&lt;/i&gt; is the second of two memoirs by &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt;. In it he narrates a number of episodes in his life, including his first introduction to the English language, his childhood in Poland, his experiences as a sailor in Marseilles and England, and the work on his debut novel &lt;i&gt;Almayer’s Folly&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;A Personal Record&lt;/i&gt; is the second of two memoirs by &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt;. In it he narrates a number of episodes in his life, including his first introduction to the English language, his childhood in Poland, his experiences as a sailor in Marseilles and England, and the work on his debut novel &lt;a href="https://standardebooks.org/ebooks/joseph-conrad/almayers-folly"&gt;&lt;i&gt;Almayer’s Folly&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 			&lt;p&gt;Originally serialized in the &lt;i&gt;English Review&lt;/i&gt; from 1908 to 1909, the book was published under the title &lt;i&gt;A Personal Record&lt;/i&gt; in 1912 with the addition of the “Familiar Preface.” The “Author’s Note” was added in 1919. The book was also published as &lt;i&gt;Some Reminiscences&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>

@@ -53,7 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/687</dc:source>
 		<dc:source>https://archive.org/details/personalrecord0000unse_r2g1</dc:source>
-		<meta property="se:word-count">48325</meta>
+		<meta property="se:word-count">48006</meta>
 		<meta property="se:reading-ease.flesch">66.17</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Personal_Record</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_a-personal-record</meta>

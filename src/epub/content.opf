@@ -38,7 +38,7 @@
 		<meta property="file-as" refines="#fulltitle">A Personal Record</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<meta property="dcterms:alternative" refines="#title">Some Reminiscences</meta>
-		<dc:subject id="subject-1">Novelists, English -- 20th century -- Biography</dc:subject>
+		<dc:subject id="subject-1">Novelists, English--20th century--Biography</dc:subject>
 		<dc:subject id="subject-2">Conrad, Joseph, 1857-1924</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008108344</meta>
